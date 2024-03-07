@@ -1,0 +1,47 @@
+/* this is how commenting is done in CSS */
+
+/*type slector */
+h1 {
+    color: red;
+    text-align: center;
+}
+
+
+/*type slector
+p{
+    background-color: purple;
+    color: yellow
+} */
+
+
+/* class selector */
+.chicken {
+    color: yellow;
+    background-color: purple;
+}
+
+.egg {
+    background-color: pink;
+    color: green;
+}
+
+.button-one {
+    background-color: black;
+    color: blue;
+    font-size: 30px;
+}
+
+.subheading{
+    color: red;
+}
+
+/* we use . (period) for class names {} */
+
+/* we use # (hash) for id selectors */
+
+#mustard {
+    background-color: red;
+    color: blue;
+}
+
+/* shortcut for commenting is command and / */
